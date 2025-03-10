@@ -6,7 +6,7 @@
 <img align= "right" alt="Coding" width="480" height="auto"  src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" height="175px"/></a>
 
 - 🔭 Talents
-****Coder,Photo editor,Gamer****
+****Developer,Gamer****
 
 - 🌱 I’m currently learning ****Python,Java,C++****
 
@@ -14,7 +14,12 @@
 
 - 📫 How to reach me **avinash-nexgen@gmail.com**
 
-- ⚡ Fun fact **I am a Minecraft player .**
+- ⚡ Fun fact **I am a Bedwar Fan  .**
+
+- 🪙 **Minecraft Hosting + V.P.S Provider.**
+
+- ⚰️ **END NETWORK " The Best Lifesteal + FFA Server "**
+
 
 ## 🚀 Languages and Tools:
 
