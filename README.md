@@ -43,7 +43,7 @@
 
 [![@allensphilip's Holopin board](https://holopin.me/allensphilip)](https://holopin.io/@allensphilip)
 
-https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif
+
 
 ## Connect with me:
 <p align="left">
