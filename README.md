@@ -43,6 +43,8 @@
 
 [![@allensphilip's Holopin board](https://holopin.me/allensphilip)](https://holopin.io/@allensphilip)
 
+https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif
+
 ## Connect with me:
 <p align="left">
 <a href="https://Facebook.com/in/avinash sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avinash sharma" height="30" width="40" /></a>
