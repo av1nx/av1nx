@@ -6,9 +6,9 @@
 <img align= "right" alt="Coding" width="480" height="auto"  src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" height="175px"/></a>
 
 - 🔭 Talents
-****Developer,Gamer****
+****Developer | Gamer****
 
-- 🌱 I’m currently learning ****Python,Java,C++****
+- 🌱 I’m currently learning ****Python | Java | C++****
 
 - 💬 Ask me about ****Minecraft****
 
