@@ -46,11 +46,11 @@
 
 
 ## Connect with me:
-<p align="left">
-<a href="https://Facebook.com/in/avinash sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avinash sharma" height="30" width="40" /></a>
+<a href="https://twitter.com/its_avinash143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="its_avinash143" height="30" width="40" /></a>
+<a href="https://fb.com/avinash sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="avinash sharma" height="30" width="40" /></a>
 <a href="https://instagram.com/its_local_avinash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_local_avinash" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/McZd9Czw" target="blank"><img align="center"
-<p> 
+<a href="https://discord.gg/https://discord.gg/McZd9Czw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/McZd9Czw" height="30" width="40" /></a>
+</p>
 <br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=avinash-nexgen&theme=dark&ring=91FF7E&background=45%2C000000%2C144512&border=000000&stroke=54EB80&fire=38EB3F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=EBEBEB)](https://git.io/streak-stats)  
