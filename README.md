@@ -49,6 +49,7 @@
 <p align="left">
 <a href="https://Facebook.com/in/avinash sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avinash sharma" height="30" width="40" /></a>
 <a href="https://instagram.com/its_local_avinash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_local_avinash" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/McZd9Czw" target="blank"><img align="center"
 <p> 
 <br>
 
