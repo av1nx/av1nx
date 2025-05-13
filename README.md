@@ -16,7 +16,9 @@
 
 - ⚡ Fun fact **I am a Bedwar Fan  .**
 
-- 🪙 **Minecraft Hosting + V.P.S Provider.**
+- 🪙 **Minecraft Hosting + V.P.S Provider .**
+
+-  🪙 **Minecraft + Discord + Game Stuff Provider .**
 
 - ⚰️ **END NETWORK " The Best Lifesteal + FFA Server "**
 
