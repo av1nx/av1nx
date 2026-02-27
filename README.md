@@ -24,7 +24,8 @@
 
 - ****🔗 Discord: discord.gg/endnetwork****
 
-- 👉🏻 **Know More About Them Through Repositories**
+- ****🚀 From Concept → Build → Launch → Scale****
+Everything Engineered for Performance, Power & Precision.
 
 
 ## 🚀 Languages and Tools:
