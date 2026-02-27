@@ -20,7 +20,7 @@
 
 -  🪙 **One-Stop Marketplace for Minecraft, Discord & Complete Gaming Ecosystems .**
 
-- ⚰️ **END NETWORK " The Best Lifesteal + FFA Server "**
+- ⚰️ **⚰️ END NETWORK — " The Ultimate Lifesteal & FFA Minecraft Experience "**
 
 - 👉🏻 **Know More About Them Through Repositories**
 
