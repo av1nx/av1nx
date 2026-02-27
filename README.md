@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning ****C++ (Core & OOP) | ROS | Python Fullstack****
 
-- 💬 Ask me about ****Minecraft****
+- 💬 Ask me about ****Minecraft | Server Optimization****
 
 - 📫 How to reach me **avinashs.nexgen@gmail.com**
 
