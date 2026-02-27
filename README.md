@@ -22,7 +22,7 @@
 
 - **⚰️ END NETWORK — " The Ultimate Lifesteal & FFA Minecraft Experience "**
 
-- ** 🔗 Discord: discord.gg/endnetwork **
+- **** 🔗 Discord: discord.gg/endnetwork ****
 
 - 👉🏻 **Know More About Them Through Repositories**
 
