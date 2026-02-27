@@ -18,7 +18,7 @@
 
 - 🪙 **Premium Minecraft Hosting & High-Performance VPS Provider .**
 
--  🪙 **Minecraft + Discord + Game Stuff Provider .**
+-  🪙 **One-Stop Marketplace for Minecraft, Discord & Complete Gaming Ecosystems .**
 
 - ⚰️ **END NETWORK " The Best Lifesteal + FFA Server "**
 
