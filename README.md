@@ -26,7 +26,7 @@
 
 - ****🚀 From Concept → Build → Launch → Scale****
 
-Everything Engineered for Performance, Power & Precision.
+- ****Everything Engineered for Performance, Power & Precision.****
 
 
 ## 🚀 Languages and Tools:
