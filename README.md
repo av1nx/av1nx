@@ -1,12 +1,12 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Avinash Sharma </h1>
-<h3 align="center">I'm a Gamer , Developer.</h3>
+<h3 align="center">I'm a Gamer , Developer , Roboticist.</h3>
 
 ## 🙋‍♂️ About Me
 
 <img align= "right" alt="Coding" width="480" height="auto"  src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" height="175px"/></a>
 
 - 🔭 Talents
-****Developer | Gamer****
+****Developer | Gamer | Roboticist****
 
 - 🌱 I’m currently learning ****Python | Java | C++****
 
