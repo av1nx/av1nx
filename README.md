@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **Robotics isn’t just my field — it’s my innovation lab .**
 
-- 🪙 **Minecraft Hosting + V.P.S Provider .**
+- 🪙 **Premium Minecraft Hosting & High-Performance VPS Provider .**
 
 -  🪙 **Minecraft + Discord + Game Stuff Provider .**
 
