@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **avinashs.nexgen@gmail.com**
 
-- ⚡ Fun fact **I am a Bedwar Fan  .**
+- ⚡ Fun fact **Robotics isn’t just my field — it’s my innovation lab .**
 
 - 🪙 **Minecraft Hosting + V.P.S Provider .**
 
