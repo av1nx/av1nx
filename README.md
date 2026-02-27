@@ -8,7 +8,7 @@
 - 🔭 Talents
 ****Developer | Gamer | Roboticist****
 
-- 🌱 I’m currently learning ****Python | Java | C++****
+- 🌱 I’m currently learning ****C++ (Core & OOP) | ROS | Python Fullstack****
 
 - 💬 Ask me about ****Minecraft****
 
