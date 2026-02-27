@@ -53,8 +53,8 @@
 
 ## Connect with me:
 <a href="https://instagram.com/_av1nx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_av1nx" height="30" width="40" /></a>
-<a href="https://discord.gg/26U8CbbSYg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/McZd9Czw" height="30" width="40" /></a>
-<a href="https://discord.gg/cK4zgk3pHb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/McZd9Czw" height="30" width="40" /></a>
+<a href="https://discord.gg/26U8CbbSYg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/26U8CbbSYg" height="30" width="40" /></a>
+<a href="https://discord.gg/cK4zgk3pHb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/cK4zgk3pHb" height="30" width="40" /></a>
 <a href="https://twitter.com/its_avinash143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="its_avinash143" height="30" width="40" /></a>
 </p>
 <br>
