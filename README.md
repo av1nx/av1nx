@@ -56,9 +56,7 @@
 <a href="https://discord.gg/cK4zgk3pHb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/cK4zgk3pHb" height="30" width="40" /></a>
 <a href="https://instagram.com/_av1nx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_av1nx" height="30" width="40" /></a>
 </p>
-<br>
-<!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=av1nx&theme=dark&ring=91FF7E&background=45%2C000000%2C144512&border=000000&stroke=54EB80&fire=38EB3F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=EBEBEB)](https://git.io/streak-stats)  -->
-<!--[![Avinash's Github stats](https://github-readme-stats.vercel.app/api?username=av1nx)]<br/>-->
+<br><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=av1nx&" alt="av1nx" /></p>
 <br/> 
 
 <!-- ## ❤ Views and Followers
