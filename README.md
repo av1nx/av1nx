@@ -64,7 +64,7 @@
 <br/>
 
 
-[![Avinash's Github stats](https://github-readme-stats.vercel.app/api?username=avinash-nexgen)]<br/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=av1nx&" alt="av1nx" /></p>
 <br/> 
 
 <!-- ## ❤ Views and Followers
